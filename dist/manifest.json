@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "Ted Cruz is the Zodiac Killer",
-	"version": "1.0.0",
-	"description": "Ted Cruz is the Zodiac Killer.",
+	"version": "1.0.1",
+	"description": "Replaces every occurance of 'Ted Cruz' with 'The Zodiac Killer'.",
 	"author": "Andrew Kerr",
 	"content_scripts": [
 		{
@@ -10,7 +10,7 @@
 			"js": ["zodiac-killer.js"]
 		}
 	],
-	"short_name": "cruzzodiac",
+	"short_name": "cruziszodiac",
   "permissions": [
     "tabs",
     "storage",
