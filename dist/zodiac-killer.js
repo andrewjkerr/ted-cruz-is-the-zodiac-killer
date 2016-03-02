@@ -6,6 +6,7 @@ const TEXT_NODE       = 3;
 const ELEMENT_NODE    = 1;
 
 replaceTextValues(document.body, /ted cruz/gi, "The Zodiac Killer");
+replaceTextValues(document.body, /tedcruz/g, "thezodiackiller");
 
 function replaceTextValues (node, regex, replaceWith) {
     if (node.nodeType === TEXT_NODE) {
