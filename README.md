@@ -6,6 +6,10 @@ Parody extension, obviously.
 
 Install via the Chrome Web Store (soon!).
 
+##Screenshot
+
+![Screenshot](https://i.imgur.com/5nJo5Se.png)
+
 ##Version History
 
 ```
